@@ -48,4 +48,4 @@ function myMovies(userInput) {
 
 
 // Exporting the function which we will use in main.js
-module.exports = myMovies;
+module.exports = movie;

@@ -40,4 +40,4 @@ function mySpotify(userInput) {
 
 
 // Exporting the function which we will use in main.js
-module.exports = mySpotify;
+module.exports = spotify;

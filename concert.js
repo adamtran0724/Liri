@@ -31,4 +31,4 @@ function myConcert(userInput) {
 };
 
 // Exporting the function which we will use in main.js
-module.exports = myConcert;
+module.exports = concert;
